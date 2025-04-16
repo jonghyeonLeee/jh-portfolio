@@ -18,7 +18,7 @@ export default function Home() {
         <Portfolio />
         <Skills />
         <Testimonials />
-        <ContactForm />
+        {/*<ContactForm />*/}
       </main>
       <Footer />
       <ScrollToTop />
